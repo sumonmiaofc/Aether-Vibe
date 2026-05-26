@@ -1,0 +1,6 @@
+{
+  "name": "Wallpaper Generator",
+  "description": "Generate and remix unique 9:16 phone wallpapers based on your custom visual vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
